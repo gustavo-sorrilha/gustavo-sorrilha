@@ -1,46 +1,52 @@
 # Olá! 👋 Bem-vindo ao meu perfil do GitHub!
 
 ## Sobre mim
-🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP (2022 - 2024).  
-💼 **Profissional:** Especializado em desenvolvimento backend com **Python**, **Java**, **Spring Boot** e bancos de dados **SQL**.  
-🌱 **Conhecimentos adicionais:** Frontend básico com **React.js**, permitindo uma visão completa do fluxo de desenvolvimento.  
+🌍 **Localização:** Brasil  
+🎓 **Formação:** Tecnólogo em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/) (2022 - 2024)  
+💼 **Profissional:** Desenvolvedor Backend especializado em **Python**, **Java**, **Spring Boot** e bancos de dados **SQL**.  
+🌱 **Conhecimentos adicionais:** Frontend básico com **React.js**.  
 📚 **Experiência:** Atuação em prevenção a fraudes, com destaque para soluções inovadoras como biometria facial e análise documental detalhada.
 
-## 🚀 Minhas habilidades
+---
+
+## 🛠️ Minhas Skills
+
 ### **Backend**
-- **Linguagens e Frameworks:** Python, Java, Spring Boot.
-- **Bancos de Dados:** Oracle SQL Developer, MySQL.
+<p>
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white">
+</p>
 
 ### **Frontend**
-- **Tecnologias:** React.js, React Native.
+<p>
+    <img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white">
+</p>
 
-### **Ferramentas e DevOps**
-- Docker, Azure DevOps Server, Git.
+### **DevOps e Banco de Dados**
+<p>
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+    <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+</p>
 
-### **Outros**
-- Experiência com práticas ágeis e construção de sistemas escaláveis.
-
-## 💼 Experiência Profissional
-- **Assistente de Prevenção a Fraudes (HS Prevent | Mar/2024 - Dez/2024):**  
-  - Implementação de soluções antifraude, incluindo biometria facial.  
-  - Análise de contratos e documentos para garantir conformidade e segurança.  
-  - Técnicas de documentoscopia e grafoscopia para detectar fraudes.  
-
-- **Assistente Jurídico (Escritório de Advocacia | Abr/2022 - Jun/2023):**  
-  - Suporte técnico em TI e organização de processos jurídicos.  
-
-## 🎓 Certificados
-- **Tarefas do Dia a Dia de um DBA (Power Tuning, 2023)**  
-- **Blockchain Advanced (FIAP, 2023)**  
-- **Dominando IoT (FIAP, 2023)**  
-- **Gestão de Infraestrutura de TI (FIAP, 2023)**  
-
-## 📫 Onde me encontrar
-[![Linkedin](https://img.shields.io/badge/-gustavo--sorrilha--sanches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-sorrilha-sanches/)](https://www.linkedin.com/in/gustavo-sorrilha-sanches/)  
-[![Gmail](https://img.shields.io/badge/-gustavosorri29@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosorri29@gmail.com)](mailto:gustavosorri29@gmail.com)  
+---
 
 ## 📊 Estatísticas do GitHub
-<a href="https://github.com/gustavo-sorrilha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-sorrilha&theme=dracula&show_icons=true" />
-</a>
+<p align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=gustavo-sorrilha&show_icons=true&theme=radical&hide_title=true" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sorrilha&layout=compact&theme=radical" />
+</p>
 
+---
+
+## 📫 Onde me encontrar
+<p align="center">
+    <a href="mailto:gustavosorri29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="https://www.linkedin.com/in/gustavo-sorrilha-sanches/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://github.com/gustavo-sorrilha"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
