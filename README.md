@@ -40,6 +40,7 @@
 [![Gmail](https://img.shields.io/badge/-gustavosorri29@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavosorri29@gmail.com)](mailto:gustavosorri29@gmail.com)  
 
 ## 📊 Estatísticas do GitHub
-<a href="https://github.com/gustavosorri29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavosorri29&theme=dracula&show_icons=true" />
+<a href="https://github.com/gustavo-sorrilha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-sorrilha&theme=dracula&show_icons=true" />
 </a>
+
